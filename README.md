@@ -1,13 +1,13 @@
-# 🚀 Hyprland LOQ 2026 Configuration
+# 🚀 Hyprland LOQ 2026 Setup
 
-Welcome to my custom Hyprland setup on the Lenovo LOQ.
+Welcome to my custom Hyprland configuration on the Lenovo LOQ.
 
-## 📺 Showcase
-Click the video below to see the animations and workflow:
+### 📺 Video Showcase
+![Setup Demo](https://github.com/yugpatel2907/Hyprland-LOQ-2026/raw/main/demo.mp4)
 
-https://github.com/yugpatel2907/Hyprland-LOQ-2026/blob/main/demo.mp4?raw=true
+---
 
-## 🛠️ Details
-- **WM:** Hyprland
-- **Terminal:** Kitty
-- **Bar:** Waybar
+### 🛠️ Key Components
+* **Window Manager:** Hyprland
+* **Bar:** Waybar
+* **Terminal:** Kitty
